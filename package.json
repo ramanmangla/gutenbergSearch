@@ -1,7 +1,7 @@
 {
   "name": "guttenberg-search",
   "version": "0.0.1",
-  "description": "Source code for Elasticsearch tutorial using 100 classic open source books.",
+  "description": "Source code for ElasticSearch tutorial using 100 classic open source books.",
   "scripts": {
     "start": "node --inspect=0.0.0.0:9229 server/app.js"
   },
